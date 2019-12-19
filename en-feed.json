@@ -1,0 +1,30 @@
+{
+    "title": "Swift Playgrounds for HD",
+    "publisherName": "Danny Huang",
+    "feedIdentifier": "io.github.hdcola",
+    "contactURL": "mailto:hdcola@me.com",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Code Practice 1",
+            "overviewSubtitle": "Learn Swift Code Practice",
+            "detailSubtitle": "Learn Swift Code Practice 000~009.",
+            "description": "Learn looping, character processing, number processing, and ten questions in Swift.",
+            "contentIdentifier": "io.github.hdcola.CodePractice1",
+            "contentVersion": "1.0",
+            "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook.zip",
+            "publishedDate": "2019-12-18T00:00:00+00:00",
+            "lastUpdatedDate": "2019-12-18T21:00:00+00:00",
+            "attributes": ["short", "algorithmic", "codingBasics"],
+            "thumbnailURL": "CodePractice1/thumbnail.png",
+            "bannerImageURL": "CodePractice1/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        }
+    ]
+}
