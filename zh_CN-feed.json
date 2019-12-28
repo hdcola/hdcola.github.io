@@ -1,6 +1,6 @@
 {
     "title": "老黄的Swift学习系列",
-    "publisherName": "Danny Huang",
+    "publisherName": "老黄",
     "feedIdentifier": "io.github.hdcola",
     "contactURL": "mailto:hdcola@me.com",
     "formatVersion": "1.2",
@@ -12,6 +12,7 @@
             "description": "学习Swift中的循环、字符处理、数字处理、判断十题。",
             "contentIdentifier": "io.github.hdcola.CodePractice1",
             "contentVersion": "1.1",
+            "difficultyLevel": "intermediate",
             "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook.zip",
             "publishedDate": "2019-12-18T00:00:00+00:00",
             "lastUpdatedDate": "2019-12-26T00:00:00+00:00",
