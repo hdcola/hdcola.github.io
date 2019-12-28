@@ -3,7 +3,7 @@
     "publisherName": "老黄",
     "feedIdentifier": "io.github.hdcola",
     "contactURL": "mailto:hdcola@me.com",
-    "formatVersion": "1.2",
+    "formatVersion": "1.0",
     "documents": [
         {
             "title": "Swift黄冈练习 1",
