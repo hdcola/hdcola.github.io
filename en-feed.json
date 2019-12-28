@@ -10,7 +10,7 @@
             "overviewSubtitle": "Learn Swift Code Practice",
             "detailSubtitle": "Learn Swift Code Practice 000~009.",
             "description": "Learn looping, character processing, number processing, and ten questions in Swift.",
-            "contentIdentifier": "io.github.hdcola.CodePractice1",
+            "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
             "contentVersion": "1.1",
             "difficultyLevel": "intermediate",
             "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook.zip",

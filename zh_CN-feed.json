@@ -10,7 +10,7 @@
             "overviewSubtitle": "学习Swift练习系列1",
             "detailSubtitle": "学习Swift练习000~009",
             "description": "学习Swift中的循环、字符处理、数字处理、判断十题。",
-            "contentIdentifier": "io.github.hdcola.CodePractice1",
+            "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
             "contentVersion": "1.1",
             "difficultyLevel": "intermediate",
             "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook.zip",
