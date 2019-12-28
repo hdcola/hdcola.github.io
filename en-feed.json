@@ -24,7 +24,9 @@
                     "value": "English"
                 }
             ],
-            "previewImageURLs": []
+            "previewImageURLs": [
+                "CodePractice1/thumbnail.png"
+            ]
         }
     ]
 }

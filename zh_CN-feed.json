@@ -24,7 +24,9 @@
                     "value": "中文"
                 }
             ],
-            "previewImageURLs": []
+            "previewImageURLs": [
+                "CodePractice1/thumbnail.png"
+            ]
         }
     ]
 }
