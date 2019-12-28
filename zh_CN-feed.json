@@ -14,14 +14,14 @@
             "contentVersion": "1.1",
             "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook.zip",
             "publishedDate": "2019-12-18T00:00:00+00:00",
-            "lastUpdatedDate": "2019-12-27T21:00:00+00:00",
+            "lastUpdatedDate": "2019-12-26T00:00:00+00:00",
             "attributes": ["short", "algorithmic", "codingBasics"],
             "thumbnailURL": "CodePractice1/thumbnail.png",
             "bannerImageURL": "CodePractice1/bannerImage.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
-                    "value": "Chinese"
+                    "value": "中文"
                 }
             ],
             "previewImageURLs": []
