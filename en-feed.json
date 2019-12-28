@@ -3,7 +3,7 @@
     "publisherName": "Danny Huang",
     "feedIdentifier": "io.github.hdcola",
     "contactURL": "mailto:hdcola@me.com",
-    "formatVersion": "1.0",
+    "formatVersion": "1.2",
     "documents": [
         {
             "title": "Code Practice 1",
