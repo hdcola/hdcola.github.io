@@ -1,31 +1,53 @@
 {
-    "title": "Swift代码练习",
-    "subtitle": "老黄的Swift代码练习系列",
-    "publisherName": "老黄",
-    "feedIdentifier": "io.github.hdcola",
-    "contactURL": "https://hdcola.github.io",
+    "title": "Whimsical Swift Syntax",
+    "subtitle": "A Collection of Swift Lessons",
+    "publisherName": "Company Name Inc.",
+    "feedIdentifier": "com.example.whimsicalswift",
+    "contactURL": "https://support.example.com",
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "Swift代码练习1",
-            "overviewSubtitle": "学习Swift代码练习系列1",
-            "detailSubtitle": "学习Swift练习000~009",
-            "description": "学习Swift中的循环、字符处理、数字处理、判断十题。",
-            "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
+            "title": "The Key Path Not Taken",
+            "overviewSubtitle": "Dynamically Choosing Among Key Paths",
+            "detailSubtitle": "Because key paths in Swift are applied at runtime, their behavior is dynamic.",
+            "description": "Learn to compare key paths and pick the right one.",
+            "contentIdentifier": "com.example.whimsicalswift.keypaths",
             "contentVersion": "1.0",
-            "url": "CodePractice1/CodePractice1.playgroundbook1.0.zip",
-            "publishedDate": "2019-11-13T21:13:57+00:00",
-            "lastUpdatedDate": "2019-11-13T21:13:57+00:00",
-            "thumbnailURL": "CodePractice1/thumbnail.png",
-            "bannerImageURL": "CodePractice1/bannerImage.png",
+            "url": "keypaths/keypaths.playgroundbook.zip",
+            "publishedDate": "2017-11-13T21:13:57+00:00",
+            "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
+            "thumbnailURL": "keypaths/thumbnail.png",
+            "bannerImageURL": "keypaths/banner.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
-                    "value": "中文"
+                    "value": "English"
                 }
             ],
             "previewImageURLs": [
-                "CodePractice1/thumbnail.png"
+                "keypaths/preview-1.png"
+            ]
+        },
+        {
+            "title": "Structer Things",
+            "overviewSubtitle": "Understand Structures by Comparing Them with Classes",
+            "detailSubtitle": "Choose between using a structure or a class to model data.",
+            "description": "Learn about value semantics and reference semantics.",
+            "contentIdentifier": "com.example.whimsicalswift.structures-and-classes",
+            "contentVersion": "1.0",
+            "url": "structures-and-classes/structures-and-classes.playgroundbook.zip",
+            "publishedDate": "2017-11-13T21:13:57+00:00",
+            "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
+            "thumbnailURL": "structures-and-classes/thumbnail.png",
+            "bannerImageURL": "structures-and-classes/banner.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "structures-and-classes/preview-1.png"
             ]
         }
     ]
