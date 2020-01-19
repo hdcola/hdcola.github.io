@@ -1,31 +1,31 @@
 {
-    "title": "Whimsical Swift Syntax",
-    "subtitle": "A Collection of Swift Lessons",
-    "publisherName": "Company Name Inc.",
-    "feedIdentifier": "io.github.hdcola",
-    "contactURL": "https://support.example.com",
+    "title": "Swift代码练习",
+    "subtitle": "老黄的Swift代码练习系列",
+    "publisherName": "老黄",
+    "feedIdentifier": "cn.hdcola",
+    "contactURL": "https://hdcola.github.io",
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "The Key Path Not Taken",
-            "overviewSubtitle": "Dynamically Choosing Among Key Paths",
-            "detailSubtitle": "Because key paths in Swift are applied at runtime, their behavior is dynamic.",
-            "description": "Learn to compare key paths and pick the right one.",
-            "contentIdentifier": "com.example.whimsicalswift.keypaths",
+            "title": "Swift代码练习1",
+            "overviewSubtitle": "学习Swift代码练习系列1",
+            "detailSubtitle": "学习Swift练习000~009",
+            "description": "学习Swift中的循环、字符处理、数字处理、判断十题。",
+            "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
             "contentVersion": "1.0",
-            "url": "keypaths/keypaths.playgroundbook.zip",
-            "publishedDate": "2017-11-13T21:13:57+00:00",
-            "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
-            "thumbnailURL": "keypaths/thumbnail.png",
-            "bannerImageURL": "keypaths/banner.png",
+            "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook1.0.zip",
+            "publishedDate": "2019-11-13T21:13:57+00:00",
+            "lastUpdatedDate": "2019-11-13T21:13:57+00:00",
+            "thumbnailURL": "https://hdcola.github.io/CodePractice1/thumbnail.png",
+            "bannerImageURL": "https://hdcola.github.io/CodePractice1/bannerImage.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
-                    "value": "English"
+                    "value": "中文"
                 }
             ],
             "previewImageURLs": [
-                "keypaths/preview-1.png"
+                "https://hdcola.github.io/CodePractice1/thumbnail.png"
             ]
         }
     ]
