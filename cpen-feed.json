@@ -1,15 +1,15 @@
 {
-    "title": "老黄的Swift学习系列",
-    "publisherName": "老黄",
+    "title": "Lao Huang's Swift Code Practice Series",
+    "publisherName": "Danny Huang",
     "feedIdentifier": "io.github.hdcola",
-    "contactURL": "mailto:hdcola@me.com",
+    "contactURL": "https://hdcola.github.io",
     "formatVersion": "1.2",
     "documents": [
         {
-            "title": "Swift黄冈练习 1",
-            "overviewSubtitle": "学习Swift练习系列1",
-            "detailSubtitle": "学习Swift练习000~009",
-            "description": "学习Swift中的循环、字符处理、数字处理、判断十题。",
+            "title": "Code Practice 1",
+            "overviewSubtitle": "Swift Code Practice 1",
+            "detailSubtitle": "Learn Swift Code Practice 000~009.",
+            "description": "Learn looping, character processing, number processing, and ten questions in Swift.",
             "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
             "contentVersion": "1.1",
             "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook.zip",
@@ -21,7 +21,7 @@
             "additionalInformation": [
                 {
                     "name": "Languages",
-                    "value": "中文"
+                    "value": "English"
                 }
             ],
             "previewImageURLs": [
