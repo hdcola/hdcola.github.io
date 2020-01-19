@@ -22,6 +22,10 @@
                 {
                     "name": "Languages",
                     "value": "中文"
+                },
+                {
+                    "name": "Version",
+                    "value": "1.0"
                 }
             ],
             "previewImageURLs": [
