@@ -20,12 +20,21 @@
             "bannerImageURL": "https://hdcola.github.io/CodePractice1/bannerImage.png",
             "additionalInformation": [
                 {
-                    "name": "Languages",
-                    "value": "中文"
-                },
-                {
-                    "name": "Version",
-                    "value": "1.0"
+					"name": "Publisher:",
+					"value": "老黄"
+				},
+				{
+					"name": "Version:",
+					"value": "1.0"
+				},
+				{
+					"type": "date",
+					"name": "Released:",
+					"value": "2020-1-18T12:00:00+00:00"
+				},
+				{
+					"name": "Languages:",
+					"value": "中文"
                 }
             ],
             "previewImageURLs": [
