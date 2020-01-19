@@ -27,28 +27,6 @@
             "previewImageURLs": [
                 "CodePractice1/thumbnail.png"
             ]
-        },
-        {
-            "title": "Structer Things",
-            "overviewSubtitle": "Understand Structures by Comparing Them with Classes",
-            "detailSubtitle": "Choose between using a structure or a class to model data.",
-            "description": "Learn about value semantics and reference semantics.",
-            "contentIdentifier": "com.example.whimsicalswift.structures-and-classes",
-            "contentVersion": "1.0",
-            "url": "structures-and-classes/structures-and-classes.playgroundbook.zip",
-            "publishedDate": "2017-11-13T21:13:57+00:00",
-            "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
-            "thumbnailURL": "structures-and-classes/thumbnail.png",
-            "bannerImageURL": "structures-and-classes/banner.png",
-            "additionalInformation": [
-                {
-                    "name": "Languages",
-                    "value": "English"
-                }
-            ],
-            "previewImageURLs": [
-                "structures-and-classes/preview-1.png"
-            ]
         }
     ]
 }
