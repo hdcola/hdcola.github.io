@@ -1,9 +1,10 @@
 {
-    "title": "Lao Huang's Swift Code Practice Series",
-    "publisherName": "Danny Huang",
-    "feedIdentifier": "io.github.hdcola",
+    "title": "Swift Code Practice Series",
+    "subtitle": "Lao Huang's Swift Code Practice Series",
+    "publisherName": "老黄",
+    "feedIdentifier": "cn.hdcola",
     "contactURL": "https://hdcola.github.io",
-    "formatVersion": "1.2",
+    "formatVersion": "1.0",
     "documents": [
         {
             "title": "Code Practice 1",
@@ -11,21 +12,34 @@
             "detailSubtitle": "Learn Swift Code Practice 000~009.",
             "description": "Learn looping, character processing, number processing, and ten questions in Swift.",
             "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
-            "contentVersion": "1.1",
+            "contentVersion": "1.0",
             "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook.zip",
-            "publishedDate": "2019-12-18T00:00:00+00:00",
-            "lastUpdatedDate": "2019-12-26T00:00:00+00:00",
-            "attributes": ["short", "algorithmic", "codingBasics"],
-            "thumbnailURL": "CodePractice1/thumbnail.png",
-            "bannerImageURL": "CodePractice1/bannerImage.png",
+            "publishedDate": "2019-11-13T21:13:57+00:00",
+            "lastUpdatedDate": "2019-11-13T21:13:57+00:00",
+            "thumbnailURL": "https://hdcola.github.io/CodePractice1/thumbnail.png",
+            "bannerImageURL": "https://hdcola.github.io/CodePractice1/bannerImage.png",
             "additionalInformation": [
                 {
-                    "name": "Languages",
-                    "value": "English"
+					"name": "Publisher:",
+					"value": "老黄"
+				},
+				{
+					"name": "Version:",
+					"value": "1.0"
+				},
+				{
+					"type": "date",
+					"name": "Released:",
+					"value": "2020-1-18T12:00:00+00:00"
+				},
+				{
+					"name": "Languages:",
+					"value": "English"
                 }
             ],
             "previewImageURLs": [
-                "CodePractice1/thumbnail.png"
+                "https://hdcola.github.io/CodePractice1/cp1p1.png",
+                "https://hdcola.github.io/CodePractice1/cp1p2.png"
             ]
         }
     ]
