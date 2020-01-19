@@ -13,11 +13,11 @@
             "description": "Learn looping, character processing, number processing, and ten questions in Swift.",
             "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
             "contentVersion": "1.0",
-            "url": "https://hdcola.github.io/CodePractice1/CodePractice1.playgroundbook.zip",
+            "url": "https://hdcola.github.io/CodePractice/CodePractice1.playgroundbook.zip",
             "publishedDate": "2019-11-13T21:13:57+00:00",
             "lastUpdatedDate": "2019-11-13T21:13:57+00:00",
-            "thumbnailURL": "https://hdcola.github.io/CodePractice1/thumbnail.png",
-            "bannerImageURL": "https://hdcola.github.io/CodePractice1/bannerImage.png",
+            "thumbnailURL": "https://hdcola.github.io/CodePractice/thumbnail.png",
+            "bannerImageURL": "https://hdcola.github.io/CodePractice/bannerImage.png",
             "additionalInformation": [
                 {
 					"name": "Publisher:",
@@ -38,8 +38,8 @@
                 }
             ],
             "previewImageURLs": [
-                "https://hdcola.github.io/CodePractice1/cp1p1.png",
-                "https://hdcola.github.io/CodePractice1/cp1p2.png"
+                "https://hdcola.github.io/CodePractice/cp1p1.png",
+                "https://hdcola.github.io/CodePractice/cp1p2.png"
             ]
         }
     ]
