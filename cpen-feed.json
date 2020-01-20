@@ -7,8 +7,8 @@
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "Code Practice 1",
-            "overviewSubtitle": "Swift Code Practice 1",
+            "title": "Swift Code Practice 1",
+            "overviewSubtitle": "Swift 5.1 Edition",
             "detailSubtitle": "Learn Swift Code Practice 000~009.",
             "description": "Learn looping, character processing, number processing, and ten questions in Swift.",
             "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
@@ -34,12 +34,48 @@
 				},
 				{
 					"name": "Languages:",
-					"value": "English,Simplified Chinese"
+					"value": "Simplified Chinese"
                 }
             ],
             "previewImageURLs": [
                 "https://hdcola.github.io/CodePractice/cp1p1.png",
                 "https://hdcola.github.io/CodePractice/cp1p2.png"
+            ]
+        },
+        {
+            "title": "Swift Code Learn1-String",
+            "overviewSubtitle": "Swift 5.1 Edition",
+            "detailSubtitle": "Learn Swift String",
+            "description": "Learn about string manipulation and processing in Swift.",
+            "contentIdentifier": "cn.hdcola.playgrounds.CodeLearn1-String",
+            "contentVersion": "1.0",
+            "url": "https://hdcola.github.io/CodeLearn/CodeLearn1-String.playgroundbook1.0.zip",
+            "publishedDate": "2019-11-13T21:13:57+00:00",
+            "lastUpdatedDate": "2019-11-14T21:13:57+00:00",
+            "thumbnailURL": "https://hdcola.github.io/CodeLearn/thumbnail.png",
+            "bannerImageURL": "https://hdcola.github.io/CodeLearn/bannerImage.png",
+            "additionalInformation": [
+                {
+					"name": "Publisher:",
+					"value": "老黄"
+				},
+				{
+					"name": "Version:",
+					"value": "1.0"
+				},
+				{
+					"type": "date",
+					"name": "Released:",
+					"value": "2020-1-18T12:00:00+00:00"
+				},
+				{
+					"name": "Languages:",
+					"value": "Simplified Chinese"
+                }
+            ],
+            "previewImageURLs": [
+                "https://hdcola.github.io/CodeLearn/cl1p1.jpeg",
+                "https://hdcola.github.io/CodeLearn/cl1p2.jpeg"
             ]
         }
     ]
