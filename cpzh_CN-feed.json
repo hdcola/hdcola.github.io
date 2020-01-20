@@ -10,7 +10,7 @@
             "title": "Swift代码练习1",
             "overviewSubtitle": "学习Swift代码练习系列1",
             "detailSubtitle": "学习Swift练习000~009",
-            "description": "学习Swift中的循环、字符处理、数字处理、判断十题。",
+            "description": "学习Swift中的循环、字符处理、数字处理、判断十题。\n\n完成题目后请在GitHub上提交Pull Request(https://github.com/HDCodePractice/SwiftPracticeResult)，也欢迎大家会一起对提交的代码进行Code Review。\n\n如果你有好的题目和主意也可以提交Pull Request或是发邮件给huangdong@gmail.com。",
             "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
             "contentVersion": "1.0",
             "url": "https://hdcola.github.io/CodePractice/CodePractice1.playgroundbook1.0.zip",
@@ -34,7 +34,7 @@
 				},
 				{
 					"name": "Languages:",
-					"value": "中文"
+					"value": "中文,英文"
                 }
             ],
             "previewImageURLs": [
