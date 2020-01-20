@@ -8,7 +8,7 @@
     "documents": [
         {
             "title": "Swift代码练习1",
-            "overviewSubtitle": "学习Swift代码练习系列1",
+            "overviewSubtitle": "Swift 5.1 Edition",
             "detailSubtitle": "学习Swift练习000~009",
             "description": "学习Swift中的循环、字符处理、数字处理、判断十题。",
             "contentIdentifier": "cn.hdcola.playgrounds.CodePractice1",
@@ -44,7 +44,7 @@
         },
         {
             "title": "Swift代码学习1",
-            "overviewSubtitle": "学习Swift字符串",
+            "overviewSubtitle": "Swift 5.1 Edition",
             "detailSubtitle": "学习Swift字符串",
             "description": "学习Swift中的字符串(String)的操作和处理。",
             "contentIdentifier": "cn.hdcola.playgrounds.CodeLearn1-String",
@@ -74,8 +74,8 @@
                 }
             ],
             "previewImageURLs": [
-                "https://hdcola.github.io/CodeLearn/cl1p1.png",
-                "https://hdcola.github.io/CodeLearn/cl1p2.png"
+                "https://hdcola.github.io/CodeLearn/cl1p1.jpeg",
+                "https://hdcola.github.io/CodeLearn/cl1p2.jpeg"
             ]
         }
     ]
