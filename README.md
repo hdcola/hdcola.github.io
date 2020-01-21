@@ -10,8 +10,10 @@ Swift代码练习系列（Swift CodePractice）[点击这里订阅](https://deve
 
 ## 订阅的内容
 
-* Swift代码练习1：包括了十道练习题，用于练习基础的代码逻辑和算法 ![p1](https://hdcola.github.io/CodePractice/cp1p1.png)![p2](https://hdcola.github.io/CodePractice/cp1p2.png)
-
+* Swift代码练习1：包括了十道练习题，用于练习基础的代码逻辑和算法 ![p1](https://hdcola.github.io/CodePractice/cp1p1.png)
+* Swift代码学习1-字符串：学习Swift String的使用 ![p1](https://hdcola.github.io/CodeLearn/cl1p1.jpeg)
+* Swift代码学习2-结构体：学习Swift Struce的使用 ![p1](https://hdcola.github.io/CodeLearn/cl2p1.jpeg)
+* Swift代码学习3-SwiftUI：学习SwiftUI的入门并构建一个iPhone计算器APP的UI ![p1](https://hdcola.github.io/CodeLearn/cl3p2.jpeg)
 
 ## 学习环境
 
