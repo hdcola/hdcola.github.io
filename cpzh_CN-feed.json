@@ -113,6 +113,42 @@
                 "https://hdcola.github.io/CodeLearn/cl2p1.jpeg",
                 "https://hdcola.github.io/CodeLearn/cl2p2.jpeg"
             ]
+        },
+        {
+            "title": "Swift代码学习3-SwiftUI",
+            "overviewSubtitle": "Swift 5.1 Edition",
+            "detailSubtitle": "学习SwiftUI入门",
+            "description": "学习SwiftUI中的基础知识，我们会尝试使用SwiftUI来构建一个iPhone计算器的UI",
+            "contentIdentifier": "cn.hdcola.playgrounds.CodeLearn3-SwiftUI",
+            "contentVersion": "1.0",
+            "url": "https://hdcola.github.io/CodeLearn/CodeLearn3-SwiftUI.playgroundbook1.0.zip",
+            "publishedDate": "2019-11-13T21:13:57+00:00",
+            "lastUpdatedDate": "2019-11-14T21:13:57+00:00",
+            "thumbnailURL": "https://hdcola.github.io/CodeLearn/thumbnail.png",
+            "bannerImageURL": "https://hdcola.github.io/CodeLearn/bannerImage.png",
+            "additionalInformation": [
+                {
+					"name": "Publisher:",
+					"value": "老黄"
+				},
+				{
+					"name": "Version:",
+					"value": "1.0"
+				},
+				{
+					"type": "date",
+					"name": "Released:",
+					"value": "2020-1-18T12:00:00+00:00"
+				},
+				{
+					"name": "Languages:",
+					"value": "中文"
+                }
+            ],
+            "previewImageURLs": [
+                "https://hdcola.github.io/CodeLearn/cl3p1.jpeg",
+                "https://hdcola.github.io/CodeLearn/cl3p2.jpeg"
+            ]
         }
     ]
 }

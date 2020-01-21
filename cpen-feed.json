@@ -79,13 +79,13 @@
             ]
         },
         {
-            "title": "Swift Code Learn1-Struct",
+            "title": "Swift Code Learn3-SwiftUI",
             "overviewSubtitle": "Swift 5.1 Edition",
-            "detailSubtitle": "Learn Swift Struct",
-            "description": "Learn the establishment and use of structures in Swift",
-            "contentIdentifier": "cn.hdcola.playgrounds.CodeLearn2-Struct",
+            "detailSubtitle": "Getting started with SwiftUI",
+            "description": "To learn the basics of SwiftUI, we will try to use SwiftUI to build an iPhone calculator UI",
+            "contentIdentifier": "cn.hdcola.playgrounds.CodeLearn3-SwiftUI",
             "contentVersion": "1.0",
-            "url": "https://hdcola.github.io/CodeLearn/CodeLearn2-Struct.playgroundbook1.0.zip",
+            "url": "https://hdcola.github.io/CodeLearn/CodeLearn3-SwiftUI.playgroundbook1.0.zip",
             "publishedDate": "2019-11-13T21:13:57+00:00",
             "lastUpdatedDate": "2019-11-14T21:13:57+00:00",
             "thumbnailURL": "https://hdcola.github.io/CodeLearn/thumbnail.png",
@@ -106,12 +106,12 @@
 				},
 				{
 					"name": "Languages:",
-					"value": "中文"
+					"value": "Simplified Chinese"
                 }
             ],
             "previewImageURLs": [
-                "https://hdcola.github.io/CodeLearn/cl2p1.jpeg",
-                "https://hdcola.github.io/CodeLearn/cl2p2.jpeg"
+                "https://hdcola.github.io/CodeLearn/cl3p1.jpeg",
+                "https://hdcola.github.io/CodeLearn/cl3p2.jpeg"
             ]
         }
     ]
