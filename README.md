@@ -1,6 +1,6 @@
-# hdcola.github.io
+# 老黄的Swift代码学习PlaygroundBook
 
-Swift代码练习系列（Swift CodePractice）[点击这里订阅](https://developer.apple.com/ul/sp0?url=https://hdcola.github.io/cpfeed.json)
+Swift代码学习系列（Swift CodePractice）[点击这里订阅](https://developer.apple.com/ul/sp0?url=https://hdcola.github.io/cpfeed.json)
 
 ## 学习建议
 
