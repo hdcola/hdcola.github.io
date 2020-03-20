@@ -87,7 +87,7 @@
             "contentVersion": "1.0",
             "url": "https://hdcola.github.io/CodeLearn/CodeLearn2-Struct.playgroundbook1.0.zip",
             "publishedDate": "2019-11-13T21:13:57+00:00",
-            "lastUpdatedDate": "2019-11-14T21:13:57+00:00",
+            "lastUpdatedDate": "2020-3-20T21:13:57+00:00",
             "thumbnailURL": "https://hdcola.github.io/CodeLearn/thumbnail.png",
             "bannerImageURL": "https://hdcola.github.io/CodeLearn/bannerImage.png",
             "additionalInformation": [
@@ -97,12 +97,12 @@
 				},
 				{
 					"name": "Version:",
-					"value": "1.0"
+					"value": "1.1"
 				},
 				{
 					"type": "date",
 					"name": "Released:",
-					"value": "2020-1-18T12:00:00+00:00"
+					"value": "2020-3-20T12:00:00+00:00"
 				},
 				{
 					"name": "Languages:",
